@@ -129,3 +129,6 @@ Improve operational efficiency by identifying delays
 Enhance customer experience through satisfaction tracking
 Support revenue growth strategies via category insights
 Enable data-driven planning and forecasting
+
+
+<img width="775" height="439" alt="Dashbaord Overview" src="https://github.com/user-attachments/assets/d38e3c10-2e15-4ed1-b91d-f9ab6ddefcb5" />
